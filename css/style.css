@@ -4,3 +4,20 @@ body {
   margin: 0px;
   background-color: rgb(52.9,80.8,98);
 }
+
+#navbar {
+  background-color: rgb(52.9,80.8,98);
+  background-image: none;
+}
+
+#navbar-head {
+  color: white;
+}
+
+#navbarNavDropdown {
+  justify-content: flex-end;
+}
+
+#navbarDropdownMenuLink {
+  color: white;
+}
