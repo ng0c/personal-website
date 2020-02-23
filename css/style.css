@@ -47,3 +47,56 @@ h2 {
   text-align: center;
   background: rgb(101, 134, 156);
 }
+
+.footer {
+  padding: 40px 0;
+  background: rgb(52.9,80.8,98);
+  font-size: 15px;
+  color: #fff;
+  text-align: center;
+  direction: rtl;
+}
+
+.footer a {
+  color: #bebebe;
+  text-decoration: none;
+  transition: color .2s ease-in-out;
+}
+
+.footer a:hover,
+.footer a:focus {
+  color: #fff;
+}
+
+.footer__nav,
+.footer__copy,
+.footer__author {
+  display: inline-block;
+  padding: 10px 20px;
+}
+
+.footer__content {
+  display: inline-block;
+  background-color: rgb(52.9,80.8,98);
+}
+
+.footer__nav,
+.footer__content {
+  direction: ltr;
+}
+
+.footer__copy,
+.footer__author {
+  margin: 0;
+}
+
+.footer__nav ul {
+  margin: 0 -10px;
+  padding: 0;
+  list-style: none;
+}
+
+.footer__nav ul li {
+  display: inline-block;
+  padding: 0 10px;
+}
