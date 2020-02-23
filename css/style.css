@@ -21,3 +21,19 @@ body {
 #navbarDropdownMenuLink {
   color: white;
 }
+
+h1 {
+  font-family: "Comfortaa", Helvetica, Arial, sans-serif;
+  color: #07374a;
+  justify-content: center;
+}
+
+p {
+  font-family: "Quattrocento", sans-serif;
+  color: #f0f0e6;
+  justify-content: center;
+}
+
+body > .container-fluid {
+  padding: 300px 15px 0;
+}
