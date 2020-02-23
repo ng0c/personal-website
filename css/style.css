@@ -62,7 +62,7 @@ p {
 }
 
 .container-fluid {
-  padding: 300px 15px 500px;
+  padding: 300px 15px 400px;
 }
 
 #card-deck {
@@ -76,6 +76,26 @@ h2 {
   font-weight: bold;
   text-align: center;
   background: rgb(101, 134, 156);
+}
+
+#about-content {
+  background: rgb(101, 134, 156);
+}
+
+#about-content h1 {
+  padding-bottom: 50px;
+  margin-top: -4em;
+}
+
+#about-content img {
+  border-radius: 50%;
+  margin-bottom: 50px;
+}
+
+#about-content p {
+  padding-top: 15px;
+  padding-left: 100px;
+  padding-right: 100px;
 }
 
 .footer {
