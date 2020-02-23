@@ -1,7 +1,4 @@
-body {
-  color: rgb(65,75,86);
-  font-family: arial;
-  margin: 0px;
+#content {
   background-color: rgb(52.9,80.8,98);
 }
 
@@ -34,6 +31,18 @@ p {
   justify-content: center;
 }
 
-body > .container-fluid {
-  padding: 300px 15px 0;
+.container-fluid {
+  padding: 300px 15px 500px;
+}
+
+#card-deck {
+  background-color: rgb(101, 134, 156);
+  padding-top: 100px;
+}
+
+h2 {
+  font-family: "Comfortaa", Helvetica, Arial, sans-serif;
+  color: #07374a;
+  text-align: center;
+  background: rgb(101, 134, 156);
 }
