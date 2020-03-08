@@ -41,26 +41,26 @@ body {
 #navbar {
   background-color: rgb(52.9, 80.8, 98);
   background-image: none;
-  font-family: "Comfortaa", Helvetica, Arial, sans-serif;
+  font-family: "Trebuchet MS", Helvetica, sans-serif
 }
 
 #navbar-head {
   color: white;
-  font-family: "Comfortaa", Helvetica, Arial, sans-serif;
+  font-family: "Trebuchet MS", Helvetica, sans-serif
 }
 
 #navbarNavDropdown {
   justify-content: flex-end;
-  font-family: "Comfortaa", Helvetica, Arial, sans-serif;
+  font-family: "Trebuchet MS", Helvetica, sans-serif
 }
 
 #navbarDropdownMenuLink {
   color: white;
-  font-family: "Comfortaa", Helvetica, Arial, sans-serif;
+  font-family: "Trebuchet MS", Helvetica, sans-serif
 }
 
 h1 {
-  font-family: "Comfortaa", Helvetica, Arial, sans-serif;
+  font-family: "Trebuchet MS", Helvetica, sans-serif
   color: #07374a;
   justify-content: center;
 }
@@ -80,12 +80,17 @@ p {
   padding-top: 100px;
 }
 
+.card-body {
+  text-align: center;
+}
+
 h2 {
-  font-family: "Comfortaa", Helvetica, Arial, sans-serif;
+  font-family: "Trebuchet MS", Helvetica, sans-serif
   color: #07374a;
   font-weight: bold;
   text-align: center;
   background: rgb(101, 134, 156);
+  padding-bottom: 40px;
 }
 
 #about-content {
