@@ -57,7 +57,8 @@ html, body {
 }
 
 h1 {
-  font-family: "Trebuchet MS", Helvetica, sans-serif color: #07374a;
+  color: #07374a;
+  font-family: "Trebuchet MS", Helvetica, sans-serif
   justify-content: center;
 }
 
@@ -81,7 +82,8 @@ p {
 }
 
 h2 {
-  font-family: "Trebuchet MS", Helvetica, sans-serif color: #07374a;
+  color: #07374a;
+  font-family: "Trebuchet MS", Helvetica, sans-serif
   font-weight: bold;
   text-align: center;
   background: rgb(101, 134, 156);
